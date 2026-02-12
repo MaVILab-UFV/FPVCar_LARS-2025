@@ -1,0 +1,5 @@
+# Fusion 360 / CAD Logs and Backups
+*.log
+*.bak
+*.tmp
+
